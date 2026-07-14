@@ -196,7 +196,7 @@ export default function Home() {
               {/* Logo Circle */}
               <div className="w-40 h-40 md:w-52 md:h-52 rounded-full overflow-hidden shadow-[0px_20px_50px_rgba(82,96,72,0.12)] border-[6px] border-white/50 backdrop-blur-sm">
                 <img
-                  src="https://lh3.googleusercontent.com/aida/AP1WRLtMPBlkduSmRG49ybxH6G1uTFKn9aJdp-7XUGvTat6v9c5HNmNN_1G5o9TrcOecZ_VBxLi1YI35hYyJ3UOQRmU8icW4nIUJU0oIL6ounNtlpaIStRbIV3_0_7drdl0HERQtwhP0DTQNpbOVos-DJDFys5DBct5x582evRG4BPC6X5tjTs_olKKxNCrKVhpmelLCSTeIsba7rmZqhuPL46l5IlmcqZTFmJag260f9pYuLMfP_xBO2gYVzbhY-qC5Gbh2ObmsvDtxyQ"
+                  src="/logo.png"
                   alt="Amravati Reads Logo"
                   className="w-full h-full object-cover"
                   onError={(e) => {
