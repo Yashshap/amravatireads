@@ -2,8 +2,8 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "BookDibs Home",
-  description: "Mobile UI for BookDibs",
+  title: "Amravati Reads Library",
+  description: "Book Collection of Amravati's own reading community.",
 };
 
 export const viewport: Viewport = {
