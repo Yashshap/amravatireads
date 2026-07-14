@@ -196,7 +196,7 @@ export default function Home() {
               {/* Logo Circle */}
               <div className="w-40 h-40 md:w-52 md:h-52 rounded-full overflow-hidden shadow-[0px_20px_50px_rgba(82,96,72,0.12)] border-[6px] border-white/50 backdrop-blur-sm">
                 <img
-                  src="/icon.png"
+                  src="./icon.png"
                   alt="Amravati Reads Logo"
                   className="w-full h-full object-cover"
                   onError={(e) => {
