@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { 
+  font-family: 'DM Sans', sans-serif; 
+} 
+
+h1, h2, h3, h4, h5, h6 { 
+  font-family: 'Libre Caslon Text', serif; 
+} 
+
+/* Hide scrollbar for clean horizontal scrolling chips */ 
+.hide-scrollbar::-webkit-scrollbar { 
+  display: none; 
+} 
+
+.hide-scrollbar { 
+  -ms-overflow-style: none; 
+  scrollbar-width: none; 
+}
+
+.material-symbols-outlined {
+  font-family: 'Material Symbols Outlined';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+}
