@@ -248,7 +248,7 @@ export default function Home() {
             {/* Soft Secondary Hint */}
             <div className="flex items-center gap-4 text-outline font-label-sm text-label-sm uppercase tracking-widest">
               <span className="h-px w-6 bg-outline/30" />
-              <span>Est. 2024</span>
+              <span>Est. 2026</span>
               <span className="h-px w-6 bg-outline/30" />
             </div>
           </div>
